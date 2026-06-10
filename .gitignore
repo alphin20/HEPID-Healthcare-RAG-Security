@@ -1,0 +1,23 @@
+
+# Generated output files
+*.png
+*.log
+*.txt
+sanitization_example*
+injection_log*
+
+# Garbage files
+confidence_gaug*
+lime_bar*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large model files
+ckpt/
+
+# Jupyter
+*.ipynb
